@@ -8,7 +8,7 @@ title: From Prep Time to Popularity
 
 **Matthew Mitchell**
 
-This project studies a large online recipe dataset to answer a simple question: **what recipe features are associated with popularity, measured by the number of non-zero ratings a recipe receives?** Popularity matters because it reflects which recipes actually attract attention and engagement, not just which ones receive high scores from a small number of users. That makes this dataset useful for understanding what kinds of recipes stand out on a crowded platform.
+This project studies an online recipe dataset to answer a simple question: **what recipe features are associated with popularity, measured by the number of non-zero ratings a recipe receives?** Popularity matters because it reflects which recipes actually attract attention and engagement, not just which ones receive high scores from a small number of users. That makes this dataset useful for understanding what kinds of recipes stand out on a crowded platform.
 
 The analysis combines two source tables: a recipes table with **83,782 rows** and an interactions table with **731,927 rows**. After cleaning and merging them, the final recipe-level table keeps one row per recipe and adds a popularity outcome derived from the interactions data.
 
