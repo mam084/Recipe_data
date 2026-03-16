@@ -1,0 +1,26 @@
+---
+---
+.page-content {
+  max-width: 980px;
+}
+iframe.plotly-frame {
+  width: 100%;
+  min-height: 560px;
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+  background: white;
+}
+.table-wrap {
+  overflow-x: auto;
+  margin: 1rem 0 1.5rem 0;
+}
+.note {
+  padding: 0.9rem 1rem;
+  border-left: 4px solid #b8860b;
+  background: #fff8dc;
+  margin: 1rem 0;
+}
+.small {
+  font-size: 0.95rem;
+  color: #555;
+}
